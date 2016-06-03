@@ -1,8 +1,11 @@
 # Faceting
 
+Hunk I want to commit
+
+Some other changes unde same commit
+
 SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
 
-There are basically three kinds of facet queries:
 
  1. querying by field
  1. date facets
